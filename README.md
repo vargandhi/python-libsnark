@@ -5,7 +5,8 @@ See [minimal examlple](https://github.com/meilof/python-libsnark/blob/master/exa
 Install from pip with
 
 ```
-pip install python-libsnark
+cd python-libsnark
+pip install -e .
 ```
 
 Binary versions available at [PyPi](https://pypi.org/manage/project/python-libsnark/release/0.3.3/) for Linux/Mac OS/Windows  .
